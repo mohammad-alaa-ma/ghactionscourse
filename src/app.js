@@ -11,4 +11,4 @@ if (require.main === module) {
 
 
 // This code defines a simple greeting function and exports it for use in other modules.
-//   // If the script is run directly, it will print a greeting to the console.
+// // // If the script is run directly, it will print a greeting to the console.
